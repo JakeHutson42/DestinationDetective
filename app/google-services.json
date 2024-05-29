@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462747059041",
+    "project_id": "destination-detective-77000",
+    "storage_bucket": "destination-detective-77000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462747059041:android:660918c339c63dba0d3b20",
+        "android_client_info": {
+          "package_name": "com.example.destinationdetective"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4O5Vlveg74ZhthzFbcFwLtRxy4iYAXKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
